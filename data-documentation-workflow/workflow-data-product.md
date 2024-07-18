@@ -22,7 +22,7 @@
 * Identificar as fontes de dados e a disponibilidade dos dados necessários.
 ## 4. Definição do Escopo e Planejamento
 * Equipe de Dados: Desenvolve um plano de projeto detalhado.
-
+  
 **Entregáveis:**
 * Documento de requisitos.
 * Cronograma do projeto.
