@@ -14,6 +14,7 @@
 * Avaliação Inicial: Determina a viabilidade da solicitação e se há necessidade de mais informações.
 ## 3. Reunião de Kickoff
 * Participantes: Equipe de Dados e Cliente.
+
 **Objetivos:**
 * Clarificar a solicitação.
 * Definir os objetivos e KPIs.
