@@ -1,5 +1,5 @@
 # Integração do CRISP-DM ao Fluxo de Processo:
-- Fases do CRISP-DM:
+**Fases do CRISP-DM:**
 - Entendimento do Negócio
 - Entendimento dos Dados
 - Preparação dos Dados
